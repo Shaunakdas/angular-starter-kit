@@ -278,6 +278,11 @@ You will need to enable the integration between Travis and GitHub. See the
 For more information on AngularJS please check out [angularjs.org][angularjs].
 
 
+## Firebase Deploy
+
+Hosting Angular 2 Applications On Firebase, please check out [Medium Article][medium-angular-firebase-deploy]. Follow instructions from Step 3.
+
+
 [angularjs]: https://angularjs.org/
 [bower]: http://bower.io/
 [git]: https://git-scm.com/
@@ -293,3 +298,4 @@ For more information on AngularJS please check out [angularjs.org][angularjs].
 [selenium]: http://docs.seleniumhq.org/
 [travis]: https://travis-ci.org/
 [travis-docs]: https://docs.travis-ci.com/user/getting-started
+[medium-angular-firebase-deploy]: https://medium.com/codingthesmartway-com-blog/hosting-angular-2-applications-on-firebase-f194688c978d
